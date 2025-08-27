@@ -154,6 +154,8 @@
 * Kullanıcı aynı kitabı eklemeye çalışırsa uyarı verin.
 
 
+---
+
 
 ## Hackerrank assignments:
 ### https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
