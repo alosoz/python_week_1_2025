@@ -154,3 +154,10 @@
 * Kullanıcı aynı kitabı eklemeye çalışırsa uyarı verin.
 
 
+
+Hackerrank assignments
+https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+https://www.hackerrank.com/challenges/python-print/problem
+https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
