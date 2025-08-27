@@ -1,10 +1,6 @@
-# python_week_1_2025
+# python ders hazrilik 1. hafta
 
-Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje için: **Başlık, Amaç, Görev, İpucu/Notlar** olacak.
-
----
-
-## ✅ **Proje 1: Favori Film Listesi (Kolay)**
+## ✅ **Proje 1: Favori Film Listesi**
 
 **Amaç:** Liste, input, string ve print kullanımını pekiştirmek.
 
@@ -25,7 +21,7 @@ Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje
 
 ---
 
-## ✅ **Proje 2: Yaş Kontrolü (Kolay)**
+## ✅ **Proje 2: Yaş Kontrolü**
 
 **Amaç:** Input, type dönüşümü, koşul ve print ile pratik yapmak.
 
@@ -38,7 +34,7 @@ Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje
 
 ---
 
-## ✅ **Proje 3: Kelime Analiz Aracı (Orta)**
+## ✅ **Proje 3: Kelime Analiz Aracı**
 
 **Amaç:** String metodları, döngü, koşul, liste, set kullanımı.
 
@@ -59,7 +55,7 @@ Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje
 
 ---
 
-## ✅ **Proje 4: Mini Market Sepeti (Orta)**
+## ✅ **Proje 4: Mini Market Sepeti **
 
 **Amaç:** Sözlük, liste, döngü, koşul, type dönüşümü pratikleri.
 
@@ -86,7 +82,7 @@ Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje
 
 ---
 
-## ✅ **Proje 5: Öğrenci Not Sistemi (Zor)**
+## ✅ **Proje 5: Öğrenci Not Sistemi**
 
 **Amaç:** Listeler, sözlükler, döngüler, koşullar, string metodları, input ve type dönüşümleri ile kapsamlı bir uygulama.
 
@@ -119,7 +115,7 @@ Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje
 
 ---
 
-## ✅ **Proje 6: Mini Kütüphane Yönetim Sistemi (Zor+)**
+## ✅ **Proje 6: Mini Kütüphane Yönetim Sistemi**
 
 **Amaç:** Değişkenler, listeler, demetler, setler, sözlükler, döngüler, koşullar, string metodları, input, type dönüşümleri.
 
@@ -151,30 +147,10 @@ Tabii, hepsini sıralı, düzenli ve anlaşılır şekilde yazıyorum. Her proje
   4. Tüm kitapları listeleyin ve mevcut/ödünçte sayılarını yazdırın.
   5. Programdan çıkın.
 
-**Ekstra Zorluk:**
+**Ekstra**
 
 * Kitap isimlerini büyük/küçük harfe duyarsız yapın (`lower()`).
 * Ödünç alınan kitapları bir **set** içinde tutun.
 * Kullanıcı aynı kitabı eklemeye çalışırsa uyarı verin.
 
----
 
-✅ **Hepsi sadece şu konularla yapılabilir:**
-
-* **Data Types**
-* **Variables and naming**
-* **Print function and parameters**
-* **Strings and methods**
-* **Input and type conversions**
-* **Conditional statements**
-* **Loops**
-* **Lists, Tuples, Sets, Dictionaries**
-
----
-
-📌 **Bir sonraki adım olarak şunları yapabilirim:**
-✔ Hepsini **düzenli bir PDF ödev dokümanı** haline getireyim (görselli, açıklamalı).
-✔ Her projeye **örnek çıktı** ekleyeyim.
-✔ Her proje için **zorluk derecesi ve hangi konulara odaklandığını** gösteren bir tablo ekleyeyim.
-
-➡ **Bunları ister misin?** Yoksa sadece bu metin hali yeterli mi?
