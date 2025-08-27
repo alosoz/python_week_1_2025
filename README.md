@@ -162,4 +162,7 @@
 ### https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 ### https://www.hackerrank.com/challenges/python-print/problem
 ### https://www.hackerrank.com/challenges/finding-the-percentage/problem
+### https://www.hackerrank.com/challenges/array-left-rotation/problem
+### https://www.hackerrank.com/challenges/counter-game/problem
+### https://www.hackerrank.com/challenges/python-time-delta/problem
 
